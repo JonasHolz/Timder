@@ -1,0 +1,5 @@
+[app]
+name = "timder"
+stylized-name = "Timder"
+identifier = "com.timder"
+template-pack = "egui"
