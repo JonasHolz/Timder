@@ -13,9 +13,8 @@ Download via paru:
 ```bash
 paru -S android-studio
 ```
->Hint
->
->This can also be used to simulate an android phone on your device
+>HINT: This can also be used to simulate an android phone on your device
+
 Now setup Android Studio on default configuration. After click on `more Actions` under `Projects`. Here select `SDK Manager` and afterwards `SDK Tools` then install `NDK (Side by side)`.
 
 After installation add the ANDROID_HOME and NDK_HOME environment variable to your shell.
